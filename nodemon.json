@@ -1,9 +1,9 @@
 {
   "env": {
-    "DB_USER": "talalabbas67",
-    "DB_PASSWORD": "ui9zbVTqLPNjV5Vn",
+    "DB_USER": "Enter database username",
+    "DB_PASSWORD": "Enter database Password",
     "DB_NAME": "mern",
-    "GOOGLE_API_KEY": "AIzaSyBpp9sfTjDCChj9nf_ilNzCcOkAGI0ngMA",
+    "GOOGLE_API_KEY": "Enter google api key",
     "JWT_KEY": "supersecret_dont_share"
   }
 }
